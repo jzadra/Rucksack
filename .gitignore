@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rcheck/
+*.tar.gz
+R-setup-*.tar.gz
+Thumbs.db
+.DS_Store
