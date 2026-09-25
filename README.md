@@ -1,3 +1,5 @@
+<img src="man/figures/logo.png" align="right" height="139" alt="Rucksack logo" />
+
 # Rucksack
 
 [![R-CMD-check](https://github.com/jzadra/Rucksack/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/jzadra/Rucksack/actions/workflows/R-CMD-check.yaml)
