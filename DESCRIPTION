@@ -2,7 +2,7 @@ Package: Rucksack
 Type: Package
 Title: Carry R and RStudio Settings Between Computers
 Version: 0.3.0
-Authors@R: person("Jonathan", "Zadra", roles = c("aut", "cre"))
+Authors@R: person("Jonathan", "Zadra", role = c("aut", "cre"))
 Description: Creates portable compressed backups of user-level R and RStudio
     configuration and restores them using paths discovered on the destination
     computer. On Windows, the package can also carry, register, and immediately
